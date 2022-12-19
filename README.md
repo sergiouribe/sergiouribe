@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergiouribe, I'm Associate Prof and Researcher in the Riga Stradins University, Riga Latvia & Universidad Austral de Chile, Valdivia, Chile
-- 👀 I’m interested in dental research, epidemiology and biostatistics
+- 👀 I’m interested in dental research, epidemiology and biostatistics. I use R +  Rstudio + tidyverse almost all of the time. 
 - 📫 How to reach me: 
 - email: sergio.uribe@gmail.com or sergio.uribe@rsu.lv 
 - twitter @sergiouribe
