@@ -3,7 +3,6 @@
 - 🔬 My ORCID is [0000-0003-0684-2025](https://orcid.org/0000-0003-0684-2025) and my research page at the [Riga Stradins University](https://science.rsu.lv/en/persons/sergio-e-uribe)
 - 📫 How to reach me: 
 - ✉️ sergio.uribe@gmail.com or sergio.uribe@rsu.lv 
--  @sergiouribe
 - [LinkedIn](https://www.linkedin.com/in/sergiouribe/)
 - webpage https://www.sergiouri.be/
 
