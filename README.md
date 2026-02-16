@@ -6,8 +6,8 @@
 
 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sergiouribe/) or sergio [ dot ] uribe [at] gmail [dot] com
  
- webpage https://www.sergiouri.be/
- research https://www.oralhealthresearch.lv
+ - webpage https://www.sergiouri.be/
+ - research https://www.oralhealthresearch.lv
 
 
 <!---
