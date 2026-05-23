@@ -1,4 +1,4 @@
-👋 Hi, I’m @sergiouribe, an Associate Prof and Lead Researcher at the Riga Stradins University, Latvia and a visiting Professor at the LMU Klinikum, LMU, Munich, Germany.
+👋 Hi, I’m @sergiouribe, an Associate Prof and Lead Researcher at the Riga Stradins University, Latvia and a visiting Professor at the LMU Klinikum, LMU, Munich, Germany. I studied dentistry and maxillofacial radiology in Chile, and completed my PhD in biomedical sciences there too. 
 
 👀 I'm interested in 🦷🔬 dental (meta) research, 📊 epidemiology, machine learning & AI 🤖 and biostatistics.  I use R + RStudio + tidyverse almost all of the time. 💻📊  
 
